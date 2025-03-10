@@ -1,2 +1,5 @@
 fastapi[all]
 joblib
+pydantic
+pandas
+sklearn
